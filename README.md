@@ -1,0 +1,1 @@
+A ko-grid extension managing column sizing information.
