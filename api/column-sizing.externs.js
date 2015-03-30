@@ -1,13 +1,13 @@
 /** @namespace */
-koGrid.extensions.columnSizing = {};
+de.benshu.ko.grid.extensions.columnSizing = {};
 
 /**
  * @constructor
  */
-koGrid.extensions.columnSizing.KoGridColumnSizing = function () {};
+de.benshu.ko.grid.extensions.columnSizing.KoGridColumnSizing = function () {};
 
 /**
- * @param {koGrid.Column} column
+ * @param {de.benshu.ko.grid.Column} column
  * @returns {boolean}
  */
-koGrid.extensions.columnSizing.KoGridColumnSizing.prototype.isResizable = function (column) {};
+de.benshu.ko.grid.extensions.columnSizing.KoGridColumnSizing.prototype.isResizable = function (column) {};
